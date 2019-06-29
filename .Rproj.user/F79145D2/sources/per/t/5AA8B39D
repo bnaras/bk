@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561830950989.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2947440194",
+    "id" : "5AA8B39D",
+    "lastKnownWriteTime" : 1561830936,
+    "last_content_update" : 1561830936,
+    "path" : "~/tmp/bk/03-method.Rmd",
+    "project_path" : "03-method.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

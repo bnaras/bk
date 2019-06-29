@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561830947521.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3226913806",
+    "id" : "E77B8911",
+    "lastKnownWriteTime" : 1561830936,
+    "last_content_update" : 1561830936,
+    "path" : "~/tmp/bk/05-summary.Rmd",
+    "project_path" : "05-summary.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

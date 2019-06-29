@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561830952654.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "874469733",
+    "id" : "6781D676",
+    "lastKnownWriteTime" : 1561830936,
+    "last_content_update" : 1561830936,
+    "path" : "~/tmp/bk/02-literature.Rmd",
+    "project_path" : "02-literature.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
